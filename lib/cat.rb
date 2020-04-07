@@ -1,3 +1,4 @@
 class Cat
- attr_accessor 
+ attr_accessor :mood
+ 
 end
